@@ -1,0 +1,179 @@
+.card {
+    border: #e4e4e4 1px solid;
+  }
+  
+  .card .card_title {
+    display: flex;
+    align-items: center;
+    height: 46px;
+    padding: 0 15px;
+    font-size: 16px;
+    color: #333;
+    font-weight: bold;
+    background: #f7f7f7;
+  }
+  
+  .card .card_research {
+    padding: 25px;
+    padding-top: 20px;
+    font-size: 14px;
+    color: #000;
+    border-top: #d1d1d1 1px solid;
+  }
+  
+  .title {
+    padding: 30px;
+    font-size: 32px;
+    color: #000;
+    text-align: center;
+  }
+  
+  .content_title1 {
+    padding-left: 10px;
+    font-size: 14px;
+    color: #000;
+  }
+  
+  .content_title2 {
+    font-size: 12px;
+    color: #559bfa;
+  }
+  
+  .content_title3 {
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size: 14px;
+    color: #000;
+  }
+  
+  .content_title4 {
+    font-size: 12px;
+    color: #559bfa;
+  }
+  
+  .content1 {
+    margin: auto;
+    padding-left: 10px;
+    padding-top: 7px;
+    font-size: 12px;
+    color: #000;
+  }
+  
+  .content2 {
+    margin: auto;
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 40px;
+    font-size: 12px;
+    color: #000;
+  }
+  
+  .live_research {
+    padding-left: 0px;
+    padding-top: 30px;
+    font-size: 14px;
+    color: #000;
+    border-top: #d1d1d1 1px solid;
+  }
+  
+  .card2 {
+    width: 220px;
+    height: 320px;
+    border: #e4e4e4 1px solid;
+  }
+  
+  .number {
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: -2px;
+    width: 17px;
+    height: 17px;
+    border: #e0e0e0 1px solid;
+    font-size: 10px;
+    color: #666;
+    text-align: center;
+    line-height: 17px;
+    float: left;
+  }
+  
+  .live_text {
+    padding-left: 10px;
+    padding-top: 5px;
+    font-size: 12px;
+    color: #000;
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .live_text:hover {
+    text-decoration: underline;
+  }
+  
+  .cookie {
+    padding-left: 0px;
+    padding-top: 30px;
+    font-size: 14px;
+    color: #000;
+  }
+  
+  .webtoon {
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size: 12px;
+    color: #559bfa;
+  }
+  
+  .content_title5 {
+    font-size: 12px;
+    color: #000;
+  }
+  
+  .deadline {
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size: 12px;
+    color: #000;
+  }
+  
+  .content_title6 {
+    font-size: 12px;
+    color: #ec5336;
+  }
+  
+  .last_link1 {
+    color: #559bfa;
+  }
+  
+  .buylist {
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size: 12px;
+    color: #000;
+  }
+  
+  .linkstyle {
+    color: #5596ba;
+    text-decoration: underline;
+  }
+  
+  .linkstyle2 {
+    margin-left: 50px;
+    color: #5596ba;
+    text-decoration: underline;
+  }
+  
+  .buylist2 {
+    padding-left: 23px;
+    padding-top: 3px;
+    padding-bottom: 25px;
+    font-size: 12px;
+  }
+  
+  .buylist_color {
+    color: #5596ba;
+    text-decoration: underline;
+  }
