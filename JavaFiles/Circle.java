@@ -16,7 +16,7 @@ public class Circle {
 }
 
 // ColoredCircle 클래스
-public class ColoredCircle extends Circle {
+class ColoredCircle extends Circle {
     private String color;
 
     public ColoredCircle(int radius, String color) {
@@ -31,7 +31,7 @@ public class ColoredCircle extends Circle {
 }
 
 // 테스트 프로그램
-public class Main {
+class Main {
     public static void main(String[] args) {
         Circle circle = new Circle(5);
         circle.show();
