@@ -127,6 +127,12 @@ header {
     color: #162938;
     font-weight: 500;
     pointer-events: none;
+    transition: .5s;
+}
+
+.input-box input:focus~label,
+.input-box input:valid~label {
+    top: -5px;
 }
 
 .input-box input {
@@ -142,5 +148,5 @@ header {
     right: 8px;
     font-size: 1.2em;
     color: #162938;
-    
+    line-height: 57px;
 }
